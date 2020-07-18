@@ -1,0 +1,5 @@
+<h1>cabeçalho<\h1>
+<p>paragrafo<\p>
+<strong>negrito<\strong>
+<em>italico<\em>
+<meta charset="UTF-8"> especifica caracteres
